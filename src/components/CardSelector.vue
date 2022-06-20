@@ -24,8 +24,6 @@ let decoderMap = new Map<string, number>()
 let selectedCards: Ref<number[]> = ref([])
 let combo = new URLSearchParams(window.location.search).get('combo')
 
-const site = location.protocol + '//' + location.host
-
 // Initialize search engine and decoder map
 const index = new Index.Index()
 for (let i = 0; i < allCards.length; i++) {
@@ -44,16 +42,13 @@ if (combo) {
 }
 
 let shareLink = computed(() => {
-  return site + "?combo=" + selectedCards.value.map((i) => {
+  return location.href + "?combo=" + selectedCards.value.map((i) => {
     return encode(getCard(i).name)
   }).join("-")
 })
 
 function share() {
   let v = shareLink.value
-  // let v = site + "?combo=" + selectedCards.value.map((i) => {
-  //   return encode(getCard(i).name)
-  // }).join("-")
   navigator.clipboard.writeText(v)
   alert("The following link has been copied to your clipboard: \n\n" + v)
 }
@@ -188,7 +183,7 @@ function toSnakeCase(inputString: string) {
             <div class="card" :class="{ 'bg-light border-danger': selected(i)}"
                  style="width: 240px;height: 360px; cursor:pointer">
               <img
-                  :src="'/b4bimg/' + toSnakeCase(getCard(i).name) + '.png'"
+                  :src="'/b4b-card-deck/b4bimg/' + toSnakeCase(getCard(i).name) + '.png'"
                   class="card-img-top" alt="...">
               <div class="card-img-overlay">
                 <h3 class="card-title text-white">{{ getCard(i).name }}</h3>
