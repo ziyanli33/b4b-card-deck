@@ -1,0 +1,1028 @@
+[
+  {
+    "name": "Reload Drills",
+    "description": " + 20% Reload Speed",
+    "type": "Offense",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Widemouth Magwell",
+    "description": "  + 30% Reload Speed<br>- 5% Damage Resistance",
+    "type": "Offense",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Mag Coupler",
+    "description": " + 50% Reload Speed<br><font color=\"red\">DISABLES: Aim Down Sights</font>",
+    "type": "Offense",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Slugger",
+    "description": " + 5 Health<br>+ 10% Melee Efficiency<br>+ 20% Melee Attack Speed",
+    "type": "Offense",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Brazen",
+    "description": " + 15% Melee Stamina Efficiency<br>+ 20% Melee Attack Speed",
+    "type": "Offense",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Meth Head",
+    "description": "Your Melee Attacks no longer stick to tough enemies. For each Melee swing and for 6 seconds you gain: <br> + 5% Melee Attack Speed<br>+ 5% Melee Stamina Efficiency<br><font color=\"red\">DISABLES: Aim Down Sights</font>",
+    "type": "Offense",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Ridden Slayer",
+    "description": " + 20% Weakspot Damage",
+    "type": "Offense",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Reckless Strategy",
+    "description": " + 30% Weakspot Damage<br>- 5% <font color=\"red\">Damage Resistance</font>",
+    "type": "Offense",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Hyper Focused",
+    "description": " + 50% Weakspot Damage<br>- 40% <font color=\"red\">Move Speed while shooting or melee attacking.</font>",
+    "type": "Offense",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Hi Vis Sights",
+    "description": " + 30% Aim Speed",
+    "type": "Offense",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Tunnel Vision",
+    "description": "Every 0.75 seconds you Aim Down Sights gives 5% Weakspot Damage (up to 3 stacks).<br>+ 50% Aim Speed<br>- 5% <font color=\"red\">Damage Resistance</font>",
+    "type": "Offense",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Steady Aim",
+    "description": "Every 0.75 seconds you Aim Down Sights gives 10% Recoil Control (up to 3 stacks).<br>+ 80% Aim Speed<br>- 50% <font color=\"red\">ADS Move Speed</font>",
+    "type": "Offense",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Shredder",
+    "description": "Each bullet hit causes the target to take 1% increased damage for 3 seconds (stacks up to 15%).",
+    "type": "Offense",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Glass Cannon",
+    "description": " + 25% Damage<br>- 30% <font color=\"red\">Health</font>",
+    "type": "Offense",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Sadistic",
+    "description": "Gain 5% Weakspot Damage for each Precision Kill in the last 10 seconds.",
+    "type": "Offense",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Adrenaline Fueled",
+    "description": "When you kill an enemy, gain 7 Stamina over 7 seconds, stacking up to 5 times.",
+    "type": "Offense",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Killer's Instinct",
+    "description": " + 30% Weakspot Damage<br><font color=\"red\">DISABLES: Aim Down Sights</font>",
+    "type": "Offense",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Power Swap",
+    "description": "Changing weapons within 1 second of reaching low ammo grants + 20% Damage for 5 seconds.",
+    "type": "Offense",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Stock Pouch",
+    "description": " + 30% Sniper Ammo Capacity<br>+ 10% Damage with Sniper Rifles",
+    "type": "Offense",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Mag Carrier",
+    "description": " + 30% Pistol/SMG Ammo Capacity.<br>+ 10% Damage with Pistols and SMGs.",
+    "type": "Offense",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Combat Medic",
+    "description": " + 50% Use Speed<br>Heals Teammates for an additional 20 when you revive them.",
+    "type": "Defense",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Medical Expert",
+    "description": " + 50% Revive Speed<br>When you use a Medical Accessory, it also restores 1 Trauma to the target.<br>TEAM EFFECTS:<br>+ 15% Healing Efficiency",
+    "type": "Defense",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Miraculous Recovery",
+    "description": "When you use a Medical Accessory, it has a 25% chance to have 100% increased effect.",
+    "type": "Defense",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Shooting Gloves",
+    "description": " + 25% Weapon Swap Speed<br>+ 15% Recoil Control<br>+ 15% Accuracy",
+    "type": "Utility",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Guns Out",
+    "description": " + 50% Weapon Swap Speed<br>- 5% <font color=\"red\">Damage Resistance</font>",
+    "type": "Utility",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Cocky",
+    "description": " + 75% Weapon Swap Speed<br><font color=\"red\">When you take damage, your Accuracy is reduced by</font> 20% <font color=\"red\">for</font> 3 seconds.",
+    "type": "Offense",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Smelling Salts",
+    "description": " + 200% Revive Speed",
+    "type": "Utility",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Pep Talk",
+    "description": "While Reviving teammates, take 3 less damage from all Ridden. Heals teammates for an additional 10 Health when you revive them.",
+    "type": "Utility",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Rousing Speech",
+    "description": "Teammates are healed for an additional 10 health when revived<br>TEAM EFFECTS:<br>+50% Revive Speed<br>+ 10% Reduced Incap Trauma",
+    "type": "Utility",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Breakout",
+    "description": "Breakout: Hold X to free yourself from Grabs.<br>+ 50% Breakout Cooldown Reduction. (Base 60 seconds).",
+    "type": "Utility",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Screwdriver",
+    "description": " + 50% Use Speed<br>+ 10% Stamina",
+    "type": "Utility",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Multitool",
+    "description": " + 75% Use Speed<br>- 5% <font color=\"red\">Damage Resistance</font>",
+    "type": "Utility",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Headband Magnifier",
+    "description": " + 125% Use Speed<br><font color=\"red\">When you take damage, you have a chance to be blinded for</font> 1 second.",
+    "type": "Utility",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Utility Scavenger",
+    "description": "You can sense nearby Quick Accessories.<br>More Quick Accessories spawn.",
+    "type": "Utility",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Cross Trainers",
+    "description": " + 20% Stamina<br>+ 20% Stamina Regen<br>+ 3% Move Speed<br>+ 5 Health",
+    "type": "Mobility",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Energy Drink",
+    "description": " + 15% Stamina<br>+ 25% Weapon Swap Speed<br>+ 15% Move Speed while firing<br>+ 10% Slow Resistance",
+    "type": "Mobility",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Rhythmic Breathing",
+    "description": " + 40% Stamina",
+    "type": "Mobility",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Dash",
+    "description": " + 5% Move Speed",
+    "type": "Mobility",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Fleet of Foot",
+    "description": " + 8% Move Speed<br>- 7% <font color=\"red\">Damage Resistance</font>",
+    "type": "Mobility",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Run Like Hell",
+    "description": " + 12% Move Speed<br>+ 15 Sprint Speed<br><font color=\"red\">When you take damage, you lose the benefits of Run like Hell for 3 seconds.</font>",
+    "type": "Mobility",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Superior Cardio",
+    "description": " + 20% Stamina<br>+ 20% Sprint Efficiency<br>+ 5 Health",
+    "type": "Mobility",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Olympic Sprinter",
+    "description": " + 30% Sprint Efficiency<br>- 7% <font color=\"red\">Damage Resistance</font>",
+    "type": "Mobility",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Reckless",
+    "description": " + 40% Sprint Efficiency<br><font color=\"red\">When you take damage while Sprinting, you lose all Stamina.</font>",
+    "type": "Mobility",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Fire in the Hole!",
+    "description": "When you throw an Offensive Accessory, gain 20 Temporary Health and 20% Move Speed for 5 seconds.",
+    "type": "Mobility",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Rolling Thunder",
+    "description": " + 35% Movement Speed while firing with Shotguns.<br>+ 10% Damage with Shotguns.",
+    "type": "Mobility",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Speed Demon",
+    "description": " + 4% Move Speed while using an SMG.<br>+ 35% Reload Speed while using an SMG.",
+    "type": "Mobility",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Hellfire",
+    "description": " + 45% Move Speed while firing.<br>+ 3% Move Speed while not firing.",
+    "type": "Mobility",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Marathon Runner",
+    "description": "No Movement Penalty for strafe and backpedal.",
+    "type": "Mobility",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Mandatory PT",
+    "description": "TEAM EFFECTS:<br>+ 10% Team Stamina<br>+ 10% Team Stamina Regen",
+    "type": "Mobility",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Pep in Your Step",
+    "description": "Precision Kills grant you 8% Move Speed for 5 seconds.",
+    "type": "Mobility",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Defensive Maneuver",
+    "description": "When you take a hit for 10 or more damage, gain 25% Damage Resistance for 3 seconds.",
+    "type": "Mobility",
+    "affinity": "Brawn"
+  },
+  {
+    "name": "Stimulants",
+    "description": "Pain Meds you apply also grant<br>+ 20% Stamina Regen,<br>+ 15% Reload Speed, and<br>+ 15% Weapon Swap Speed for 60 seconds.",
+    "type": "Mobility",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "On Your Mark...",
+    "description": "TEAM EFFECTS:<br>When a horde is triggered, your team restores 10% Ammo and gains 10% Move Speed while firing, 15% Reload Speed, and 25% Swap Speed for 30 seconds.",
+    "type": "Mobility",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Ammo Pouch",
+    "description": "+ 25% Ammo Capacity<br>+ 2.5% Bullet Damage",
+    "type": "Offense",
+    "affinity": "Discipline"
+  },
+  {
+    "name": "Ammo Belt",
+    "description": " + 50% Ammo Capacity<br>+ 15% Reload Speed",
+    "type": "Offense",
+    "affinity": "Discipline"
+  },
+  {
+    "name": "Ammo Mule",
+    "description": " + 75% Ammo Capacity<br>- 5% <font color=\"red\">Move Speed</font>",
+    "type": "Offense",
+    "affinity": "Discipline"
+  },
+  {
+    "name": "Front Sight Focus",
+    "description": " + 20% Accuracy<br>+ 10% Weakspot Damage<br>+ 15% Aim Speed",
+    "type": "Offense",
+    "affinity": "Discipline"
+  },
+  {
+    "name": "Optics Enthusiast",
+    "description": " + 30% Accuracy",
+    "type": "Offense",
+    "affinity": "Discipline"
+  },
+  {
+    "name": "Quick Kill",
+    "description": " + 50% Accuracy<br><font color=\"red\">DISABLES: Aim Down Sights</font>",
+    "type": "Offense",
+    "affinity": "Discipline"
+  },
+  {
+    "name": "Combat Training",
+    "description": " + 5% Bullet Damage<br>+ 1 Bullet Stumble Damage<br>+ 5 Melee Stumble Damage",
+    "type": "Offense",
+    "affinity": "Discipline"
+  },
+  {
+    "name": "Large Caliber Rounds",
+    "description": " + 7.5% Bullet Damage<br>+ 200% Bullet Penetration",
+    "type": "Offense",
+    "affinity": "Discipline"
+  },
+  {
+    "name": "Silver Bullets",
+    "description": " + 10% Bullet Damage<br>+ 15% Effective Bullet Range",
+    "type": "Offense",
+    "affinity": "Discipline"
+  },
+  {
+    "name": "Avenge The Fallen",
+    "description": "TEAM EFFECTS<br>When you or your teammate becomes incapacitated, all teammates gain 30% Damage, 20% Reload Speed, and Unlimited Ammo for 10 seconds.",
+    "type": "Offense",
+    "affinity": "Discipline"
+  },
+  {
+    "name": "In the Zone",
+    "description": "Precision Kills grant 5% Reload Speed for 5 seconds (stacking up to 10 times).",
+    "type": "Offense",
+    "affinity": "Discipline"
+  },
+  {
+    "name": "Trigger Control",
+    "description": "Precision Kills with guns grant 0.5% Accuracy until the end of the level",
+    "type": "Offense",
+    "affinity": "Discipline"
+  },
+  {
+    "name": "Combat Knife",
+    "description": "Turns your Bash into a Knife that counts as a melee weapon.",
+    "type": "Offense",
+    "affinity": "Discipline"
+  },
+  {
+    "name": "Meat Grinder",
+    "description": "Gain 30% Move Speed and Accuracy while crouched and using an LMG.",
+    "type": "Offense",
+    "affinity": "Discipline"
+  },
+  {
+    "name": "Scattergun Skills",
+    "description": " + 40% Reload Speed with Shotguns.",
+    "type": "Offense",
+    "affinity": "Discipline"
+  },
+  {
+    "name": "Ammo for All",
+    "description": "TEAM EFFECTS<br>+ 10% Team Ammo Capacity<br>+ 1% Team Damage",
+    "type": "Offense",
+    "affinity": "Discipline"
+  },
+  {
+    "name": "Patient Hunter",
+    "description": "Every 0.75 seconds you Aim Down Sights increases your Damage by 10% (up to 3 stacks).",
+    "type": "Offense",
+    "affinity": "Discipline"
+  },
+  {
+    "name": "Power Reload",
+    "description": "Reloading a gun within 1 second of reaching low ammo will increase its magazine size by 30% until the next reload.",
+    "type": "Offense",
+    "affinity": "Discipline"
+  },
+  {
+    "name": "Tactical Vest",
+    "description": " + 30% Rifle Ammo Capacity.<br>+ 10% Damage with Assault Rifles and LMGs.",
+    "type": "Offense",
+    "affinity": "Discipline"
+  },
+  {
+    "name": "Motorcycle Jacket",
+    "description": " + 5% Damage Resistance<br>+ 5 Health",
+    "type": "Defense",
+    "affinity": "Discipline"
+  },
+  {
+    "name": "Padded Suit",
+    "description": " + 10% Damage Resistance<br>+ 5 Health<br>- 20% <font color=\"red\">Stamina Efficiency</font>",
+    "type": "Defense",
+    "affinity": "Discipline"
+  },
+  {
+    "name": "Motorcycle Helmet",
+    "description": " + 15% Damage Resistance<br>+ 10 Health<br><font color=\"red\">DISABLES: Aim Down Sights</font>",
+    "type": "Defense",
+    "affinity": "Discipline"
+  },
+  {
+    "name": "Antibiotic Ointment",
+    "description": " + 25% Healing Efficiency<br>When you use a Medical Accessory, the target gains 10 Temporary Health.",
+    "type": "Defense",
+    "affinity": "Discipline"
+  },
+  {
+    "name": "EMT Bag",
+    "description": " + 50% Healing Efficiency",
+    "type": "Defense",
+    "affinity": "Discipline"
+  },
+  {
+    "name": "Field Surgeon",
+    "description": "When you use a Medical Accessory, it also restores 3 Trauma to the target.",
+    "type": "Defense",
+    "affinity": "Discipline"
+  },
+  {
+    "name": "Inspiring Sacrifice",
+    "description": "TEAM EFFECTS:<br>When you or a teammate becomes incapacitated, all teammates heal for 20 health over 15 seconds.",
+    "type": "Defense",
+    "affinity": "Discipline"
+  },
+  {
+    "name": "Charitable Soul",
+    "description": "Healing a teammate also heals you for 50% of the amount healed.",
+    "type": "Defense",
+    "affinity": "Discipline"
+  },
+  {
+    "name": "Hunker Down",
+    "description": "While crouching, gain 10% Damage Resistance and 40% Accuracy.",
+    "type": "Defense",
+    "affinity": "Discipline"
+  },
+  {
+    "name": "Vanguard",
+    "description": "Melee kills heal +1 Health to yourself, and teammates within 10 meters.",
+    "type": "Defense",
+    "affinity": "Discipline"
+  },
+  {
+    "name": "Needs of the Many",
+    "description": " - 10% <font color=\"red\">Health</font><br>TEAM EFFECTS<br>+ 1 Team Extra Life",
+    "type": "Defense",
+    "affinity": "Discipline"
+  },
+  {
+    "name": "Down in Front!",
+    "description": "While crouching you neither take nor deal Friendly Fire damage.<br>+ 10 Health",
+    "type": "Defense",
+    "affinity": "Discipline"
+  },
+  {
+    "name": "Poultice",
+    "description": "When you heal a teammate, then heal for an additional 20 Health over 30 seconds.",
+    "type": "Defense",
+    "affinity": "Discipline"
+  },
+  {
+    "name": "Group Therapy",
+    "description": "When you use a Medical Accessory, all teammates heal for 8 Health.",
+    "type": "Defense",
+    "affinity": "Discipline"
+  },
+  {
+    "name": "Medical Professional",
+    "description": "First Aids and Defibrillators also recover 15 Trauma Damage and 1 Extra Life.",
+    "type": "Defense",
+    "affinity": "Discipline"
+  },
+  {
+    "name": "Amped Up",
+    "description": "TEAM EFFECTS:<br>When a horde is triggered, your team gains 20 Health.",
+    "type": "Defense",
+    "affinity": "Discipline"
+  },
+  {
+    "name": "Ammo Scavenger",
+    "description": "You can sense nearby Ammo.<br>More Ammo spawns.",
+    "type": "Utility",
+    "affinity": "Discipline"
+  },
+  {
+    "name": "Support Scavenger",
+    "description": "You can sense nearby Support Accessories.<br>More Support Accessories spawn.",
+    "type": "Utility",
+    "affinity": "Discipline"
+  },
+  {
+    "name": "Weapon Scavenger",
+    "description": "You can sense nearby Weapons.<br>More weapons spawn.",
+    "type": "Utility",
+    "affinity": "Discipline"
+  },
+  {
+    "name": "Marked for Death",
+    "description": "Mutations you ping are highlighted and your team deals 10% increased damage to highlighted enemies.",
+    "type": "Utility",
+    "affinity": "Discipline"
+  },
+  {
+    "name": "Knowledge is Power",
+    "description": " + 10% Weakspot Damage<br>Allows players to see values for damage they deal and enemy health bars.",
+    "type": "Utility",
+    "affinity": "Discipline"
+  },
+  {
+    "name": "Energy Bar",
+    "description": " + 30% Stamina Regeneration<br>+ 5 Health",
+    "type": "Mobility",
+    "affinity": "Discipline"
+  },
+  {
+    "name": "Cold Brew Coffee",
+    "description": " + 15% Reload Speed<br>+ 25% Aim Speed<br>+ 25% Weapon Swap Speed<br>+ 25% Use Speed",
+    "type": "Mobility",
+    "affinity": "Discipline"
+  },
+  {
+    "name": "Natural Sprinter",
+    "description": " + 100% Stamina Regeneration<br>- 50% <font color=\"red\">Maximum Stamina</font>",
+    "type": "Mobility",
+    "affinity": "Discipline"
+  },
+  {
+    "name": "Controlled Movement",
+    "description": " + 40% Move Speed while aiming down sights with Sniper Rifles.",
+    "type": "Mobility",
+    "affinity": "Discipline"
+  },
+  {
+    "name": "Spiky Bits",
+    "description": " + 20 Melee Damage<br>+ 20% Damage Resistance while using a Melee Weapon<br>- 15% <font color=\"red\">Ammo Capacity</font>",
+    "type": "Offense",
+    "affinity": "Brawn"
+  },
+  {
+    "name": "Mean Drunk",
+    "description": " + 40% Melee Damage<br>Your Melee Attacks cause cleave through enemies dealing damage in a large area.",
+    "type": "Offense",
+    "affinity": "Brawn"
+  },
+  {
+    "name": "Grenade Training",
+    "description": " + 25% Accessory Damage",
+    "type": "Offense",
+    "affinity": "Brawn"
+  },
+  {
+    "name": "Demolitions Expert",
+    "description": " + 50% Accessory Damage<br>- 15% <font color=\"red\">Ammo Capacity</font>",
+    "type": "Offense",
+    "affinity": "Brawn"
+  },
+  {
+    "name": "Improvised Explosives",
+    "description": " + 75% Accessory Damage<br>- 25% <font color=\"red\">Swap Speed</font>",
+    "type": "Offense",
+    "affinity": "Brawn"
+  },
+  {
+    "name": "Confident Killer",
+    "description": "When you or your team kills a Mutation gain 1% damage (up to 15%) until the end of the level.",
+    "type": "Offense",
+    "affinity": "Brawn"
+  },
+  {
+    "name": "Heavy Hitter",
+    "description": "Melee hits always Stumble Ridden the first time they are hit. This effect can only occur once per target.",
+    "type": "Offense",
+    "affinity": "Brawn"
+  },
+  {
+    "name": "Berserker",
+    "description": "Gain 5% Melee Damage, 5% Melee Speed, and 5% Move Speed for each Melee kill in the last 3 seconds.",
+    "type": "Offense",
+    "affinity": "Brawn"
+  },
+  {
+    "name": "Pyro",
+    "description": " + 100% Fire damage.<br>Kills with fire grant you 3 Temporary Health.<br>You can sense flammable objects nearby.",
+    "type": "Offense",
+    "affinity": "Brawn"
+  },
+  {
+    "name": "Bomb Squad",
+    "description": "1 Additional Frag Grenade spawns in each map.<br>TEAM EFFECTS:<br>+ 25% Team Explosive Damage<br>+ 25% Team Explosive Resistance",
+    "type": "Offense",
+    "affinity": "Brawn"
+  },
+  {
+    "name": "Line 'Em Up",
+    "description": " + 10% Effective Bullet Range<br>+ 15% Recoil Control<br>+ 25% Bullet Penetration<br>+ 25% Aim Speed",
+    "type": "Offense",
+    "affinity": "Brawn"
+  },
+  {
+    "name": "Heavy Attack",
+    "description": "Charge: Hold RT with Melee weapon to burst forward.<br>Charge attacks deal 100% increased damage.",
+    "type": "Offense",
+    "affinity": "Brawn"
+  },
+  {
+    "name": "Sunder",
+    "description": "Melee hits cause the target to take +3% increased damage, to a maximum of 15% increased damage. Melee hits that destroy Armor have a chance to create usable Makeshift Armor.",
+    "type": "Offense",
+    "affinity": "Brawn"
+  },
+  {
+    "name": "Two is One and One is None",
+    "description": "You can equip a Primary weapon in your Secondary slot.<br>- 25% <font color=\"red\">Swap Speed</font>",
+    "type": "Offense",
+    "affinity": "Brawn"
+  },
+  {
+    "name": "Chemical Courage",
+    "description": "Pain Meds you apply also grant + 25% Damage for 60 seconds.",
+    "type": "Offense",
+    "affinity": "Brawn"
+  },
+  {
+    "name": "Broadside",
+    "description": "Precision Kills have a 20% chance to cause Ridden to explode, dealing 15 damage to other Ridden within 4 meters.",
+    "type": "Offense",
+    "affinity": "Brawn"
+  },
+  {
+    "name": "Vitamins",
+    "description": " + 15 Health",
+    "type": "Defense",
+    "affinity": "Brawn"
+  },
+  {
+    "name": "Hydration Pack",
+    "description": " + 25 Health<br>- 15% <font color=\"red\">Ammo Capacity</font>",
+    "type": "Defense",
+    "affinity": "Brawn"
+  },
+  {
+    "name": "Canned Goods",
+    "description": " + 40 Health<br>- 30% <font color=\"red\">Stamina</font>",
+    "type": "Defense",
+    "affinity": "Brawn"
+  },
+  {
+    "name": "Durable",
+    "description": " + 15% Trauma Resistance<br>+ 5 Health",
+    "type": "Defense",
+    "affinity": "Brawn"
+  },
+  {
+    "name": "Body Armor",
+    "description": " + 20% Trauma Resistance",
+    "type": "Defense",
+    "affinity": "Brawn"
+  },
+  {
+    "name": "Wooden Armor",
+    "description": " + 30% Trauma Resistance<br>- 100% <font color=\"red\">Fire Resistance</font>",
+    "type": "Defense",
+    "affinity": "Brawn"
+  },
+  {
+    "name": "Ignore the Pain",
+    "description": " + 20% Melee Damage against Mutations.<br>When you deal Melee damage to a Mutation gain 1 Health and recover 3 Stamina.",
+    "type": "Defense",
+    "affinity": "Brawn"
+  },
+  {
+    "name": "True Grit",
+    "description": "When you take a single hit for 15 or more damage, heal 10 Health over 5 seconds.",
+    "type": "Offense",
+    "affinity": "Brawn"
+  },
+  {
+    "name": "Scar Tissue",
+    "description": "Take 1 less damage from all Ridden",
+    "type": "Defense",
+    "affinity": "Brawn"
+  },
+  {
+    "name": "Battle Lust",
+    "description": "Melee kills heal +1 Health and 0.1 Trauma Healing.",
+    "type": "Defense",
+    "affinity": "Brawn"
+  },
+  {
+    "name": "Face Your Fears",
+    "description": "Gain 1 Temporary Health whenever you kill a Ridden within 2.5 meters.",
+    "type": "Defense",
+    "affinity": "Brawn"
+  },
+  {
+    "name": "Well Fed",
+    "description": "TEAM EFFECTS<br>+ 10 Team Health",
+    "type": "Defense",
+    "affinity": "Brawn"
+  },
+  {
+    "name": "Overwatch",
+    "description": "Kills from greater than 15 meters grant 5 Temporary Health to teammates within 15 meters of the target.",
+    "type": "Defense",
+    "affinity": "Brawn"
+  },
+  {
+    "name": "Fresh Bandage",
+    "description": "At the start of each level, heal 15 Trauma Damage, then restore any missing Health.",
+    "type": "Defense",
+    "affinity": "Brawn"
+  },
+  {
+    "name": "Numb",
+    "description": "Gain + 10% Damage Resistance while you have Temporary Health.",
+    "type": "Defense",
+    "affinity": "Brawn"
+  },
+  {
+    "name": "Buckshot Bruiser",
+    "description": "When using Shotguns, gain 0.25 Temporary Health for each pellet that hits.",
+    "type": "Defense",
+    "affinity": "Brawn"
+  },
+  {
+    "name": "Second Chance",
+    "description": " + 1 Extra Life<br>+ 5 Health",
+    "type": "Defense",
+    "affinity": "Brawn"
+  },
+  {
+    "name": "Offensive Scavenger",
+    "description": "You can sense nearby Offensive Accessories.<br>More Offensive Accessories spawn.",
+    "type": "Utility",
+    "affinity": "Brawn"
+  },
+  {
+    "name": "Grenade Pouch",
+    "description": " + 1 Offensive Inventory<br>+ 25% Swap Speed",
+    "type": "Offense",
+    "affinity": "Fortune"
+  },
+  {
+    "name": "Double Grenade Pouch",
+    "description": " + 2 Offensive Inventory<br>- 5% <font color=\"red\">Move Speed</font>",
+    "type": "Offense",
+    "affinity": "Fortune"
+  },
+  {
+    "name": "Surplus Pouches",
+    "description": " - 10% <font color=\"red\">Health</font><br>TEAM EFFECTS<br>+ 1 Team Offensive Inventory",
+    "type": "Offense",
+    "affinity": "Fortune"
+  },
+  {
+    "name": "Admin Reload",
+    "description": "When you stow your weapon, it reloads.",
+    "type": "Offense",
+    "affinity": "Fortune"
+  },
+  {
+    "name": "Ammo Stash",
+    "description": "Your secondary weapons have unlimited ammo.<br><font color=\"red\">Your secondary weapons reload</font> 20% <font color=\"red\">slower.</font>",
+    "type": "Offense",
+    "affinity": "Fortune"
+  },
+  {
+    "name": "Shell Carrier",
+    "description": " + 30% Shotgun Ammo Capacity.<br>+ 10% Damage with Shotguns.",
+    "type": "Offense",
+    "affinity": "Fortune"
+  },
+  {
+    "name": "Fanny Pack",
+    "description": " + 1 Support Inventory<br>+ 15% Trauma Resistance",
+    "type": "Defense",
+    "affinity": "Fortune"
+  },
+  {
+    "name": "Shoulder Bag",
+    "description": " + 2 Support Inventory<br>- 5% <font color=\"red\">Move Speed</font>",
+    "type": "Defense",
+    "affinity": "Fortune"
+  },
+  {
+    "name": "Box O' Bags",
+    "description": " - 10% <font color=\"red\">Health</font><br>TEAM EFFECTS<br>+ 1 Team Support Inventory",
+    "type": "Defense",
+    "affinity": "Fortune"
+  },
+  {
+    "name": "Life Insurance",
+    "description": " + 1 Extra Life<br>TEAM EFFECTS<br>+ 15% Reduced Incap Trauma",
+    "type": "Defense",
+    "affinity": "Fortune"
+  },
+  {
+    "name": "Wounded Animal",
+    "description": "Kills while at Critical Health recover 1 Health.",
+    "type": "Defense",
+    "affinity": "Fortune"
+  },
+  {
+    "name": "Mugger",
+    "description": "Kills with Melee weapons have a 5% chance to spawn ammo or [[Razor Wire]].",
+    "type": "Utility",
+    "affinity": "Fortune"
+  },
+  {
+    "name": "Highwayman",
+    "description": "Kills with Secondary guns have a 5% chance to spawn ammo or [[Molotov]].",
+    "type": "Utility",
+    "affinity": "Fortune"
+  },
+  {
+    "name": "Bounty Hunter",
+    "description": "When you or your team kills a Mutation, gain 10 Copper (up to 300 per level).",
+    "type": "Utility",
+    "affinity": "Fortune"
+  },
+  {
+    "name": "Compound Interest",
+    "description": "Each Cleaner gains 5% of their total Copper in each Saferoom.",
+    "type": "Utility",
+    "affinity": "Fortune"
+  },
+  {
+    "name": "Lucky Pennies",
+    "description": "Whenever you or your team loots Copper, you have a 35% chance to find 35% additional Copper.",
+    "type": "Utility",
+    "affinity": "Fortune"
+  },
+  {
+    "name": "Money Grubbers",
+    "description": "Each time your team loots Copper, you gain 3 additional Copper, stacking up to 25 times.",
+    "type": "Utility",
+    "affinity": "Fortune"
+  },
+  {
+    "name": "Copper Scavenger",
+    "description": "You can sense nearby Copper.<br>More Copper Piles spawn.",
+    "type": "Utility",
+    "affinity": "Fortune"
+  },
+  {
+    "name": "Share the Wealth",
+    "description": "TEAM EFFECTS<br>Each teammate gains 100 bonus Copper at the start of each level.",
+    "type": "Utility",
+    "affinity": "Fortune"
+  },
+  {
+    "name": "Run and Gun",
+    "description": "You can shoot while sprinting.",
+    "type": "Mobility",
+    "affinity": "Fortune"
+  },
+  {
+    "name": "Mad Dash",
+    "description": " + 20% Sprint Speed<br>- 40% <font color=\"red\">Sprint Stamina Efficiency</font>",
+    "type": "Mobility",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Belt Clip",
+    "description": " + 1 Quick Slot Inventory<br>+ 10% Use Speed",
+    "type": "Utility",
+    "affinity": "Fortune"
+  },
+  {
+    "name": "Body Guard",
+    "description": "When a teammate within 5 meters is attacked, you instead receive 75% of that damage.<br>Can trigger once every 3 seconds.",
+    "type": "Talent",
+    "affinity": "Brawn"
+  },
+  {
+    "name": "Bravado",
+    "description": "When a teammate within 15 meters receives Trauma Damage, gain 10% of that amount as Trauma Health.",
+    "type": "Talent",
+    "affinity": "Brawn"
+  },
+  {
+    "name": "Fit As A Fiddle",
+    "description": "TEAM EFFECTS<br>+ 20% Team  [[Health#Bolstered_Health|Bolstered Health]]<br>+ 5 Team Health",
+    "type": "Stat",
+    "affinity": "Brawn"
+  },
+  {
+    "name": "Magician's Apprentice",
+    "description": "You have an additional 10% chance to not consume Accessories when used.",
+    "type": "Talent",
+    "affinity": "Fortune"
+  },
+  {
+    "name": "Over-Protective",
+    "description": "When a teammte within 15 meters receives 5 or more damage, gain 20% increased Damage for 5 seconds.",
+    "type": "Talent",
+    "affinity": "Discipline"
+  },
+  {
+    "name": "Pinata",
+    "description": "Killing Ridden with an Accessory has a 15% chance to drop an Accessory.",
+    "type": "Talent",
+    "affinity": "Fortune"
+  },
+  {
+    "name": "Power Strike",
+    "description": "Every 3 seconds, gain + 10 Bash Damage, stacking up to 10 times.<br>All charges are consumed on use.",
+    "type": "Talent",
+    "affinity": "Brawn"
+  },
+  {
+    "name": "Pumped Up",
+    "description": "Your Temporary Health decays 20% slower.<br>1 Additional Pain Meds spawns in each map.<br>+ 5% Health",
+    "type": "Stat",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Sadist",
+    "description": "When a teammate within 15 meters receives 5 or more damage, gain 20% of the damage as Temporary Health.<br>Can only trigger once per second.",
+    "type": "Talent",
+    "affinity": "Brawn"
+  },
+  {
+    "name": "Stealthy Passage",
+    "description": " Allows disarming of door alarms, car alarms, and birds.<br>The target will trigger if you are interrupted.<br><font color=\"red\">DISABLES: Quick Slot</font><br>TEAM EFFECTS<br>Gain 25 Copper per success.",
+    "type": "Talent",
+    "affinity": "Reflex"
+  },
+  {
+    "name": "Tool Belts",
+    "description": " - 10% <font color=\"red\">Health</font><br>TEAM EFFECTS<br>+ 1 Team Quick Slot Inventory",
+    "type": "Utility",
+    "affinity": "Fortune"
+  },
+  {
+    "name": "Utility Belt",
+    "description": " + 2 Quick Slot Inventory<br>- 5% <font color=\"red\">Move Speed</font>",
+    "type": "Utility",
+    "affinity": "Fortune"
+  },
+  {
+    "name": "Weaponsmith",
+    "description": "Allows the ability to unbolt attachments from weapons outside of Saferooms. Unbolting attachments costs 400 Copper.<br><br>TEAM EFFECTS<br>Additional copies of Weaponsmith played reduce its cost by 100 Copper.",
+    "type": "Ability",
+    "affinity": "Discipline"
+  },
+  {
+    "name": "Well Rested",
+    "description": "TEAM EFFECTS<br>+ 20% Team Overheal<br>+ 10% Team Healing Efficiency",
+    "type": "Talent",
+    "affinity": "Brawn"
+  },
+  {
+    "name": "Soften Up",
+    "description": "Melee hits cause the target to deal 3% reduced damage, to a maximum of 15% reduced damage.",
+    "type": "Offense",
+    "affinity": "Brawn"
+  },
+  {
+    "name": "Experienced EMT",
+    "description": "When you use a Medical Accessory, the target gains +10% Maximum Health, Stamina, and Stamina Regeneration until the end of the level.",
+    "type": "Defense",
+    "affinity": "Discipline"
+  },
+  {
+    "name": "Hazard Pay",
+    "description": "Gains +250 Copper at the start of the Each level.",
+    "type": "Utility",
+    "affinity": "Fortune"
+  },
+  {
+    "name": "Saferoom Recovery",
+    "description": "Your team heals +15 Health, +7 Trauma Damage and refills +10% ammo at the start of each level.",
+    "type": "Defense",
+    "affinity": "Fortune"
+  }
+]
